@@ -1,0 +1,6 @@
+/*
+ *
+ * compile:
+ *  gcc -lssl -loauth -o oauthexample oauthexample.c
+ */
+
